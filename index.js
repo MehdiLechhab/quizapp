@@ -50,7 +50,7 @@ icon : `assets/austria.png` ,
 alt : `Austria flag icon`,
 fact: `The sewing machine was invented by Austrian Josef Madersperger.` } 
 , 
-{ question : `What is the country of of Sofia?` ,
+{ question : `What is the country of Sofia?` ,
 choice1 : `Czech Republic` ,
 choice2 : `Bulgaria` ,
 choice3 : `Cyprus` ,
