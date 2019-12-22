@@ -96,7 +96,7 @@ choice2 : `Muscat` ,
 choice3 : `Rabat` ,
 choice4 : `Warsaw` ,
 answer : `Rabat` ,
-icon : `assets/morocco.png` ,
+icon : `assets/Morocco.png` ,
 alt : `Moroccan flag icon`,
 fact: `The most well-known Moroccan food is couscous, a dish typically eaten on the Islamic holy day. It is also one of the world’s largest producers of illicit hashish which is a potent form of cannabis. | It was the first nation to sign a treaty with the United States in 1786.` } 
 
